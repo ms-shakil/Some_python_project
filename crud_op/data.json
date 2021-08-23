@@ -1,0 +1,28 @@
+{
+    "About": "about students data",
+    "Total": 2,
+    "Districts": [
+        {
+            "name": "COMILLA",
+            "count": 1
+        },
+        {
+            "name": "MUNIC",
+            "count": 1
+        }
+    ],
+    "Bio": [
+        {
+            "id": "34",
+            "name": "main",
+            "age": "34",
+            "district": "COMILLA"
+        },
+        {
+            "id": "43",
+            "name": "fahad",
+            "age": "345",
+            "district": "MUNIC"
+        }
+    ]
+}
